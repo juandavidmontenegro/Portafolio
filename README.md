@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Sobre el Portafolio
+## Sobre el Portafolio
 
 Este portafolio está diseñado para:
 - **Mostrar mis proyectos**: Una colección completa de mis trabajos en Desarrollo frontend y backend
@@ -85,26 +85,6 @@ El servidor de Desarrollo se iniciará en el navegador con la url
 ```bash
 http://localhost:4200/
 ```
-### Producción (Build)
-Para crear una versión optimizada para producción:
-
-```bash
-npm run build
-```
-
-Los archivos compilados se guardarán en el directorio `dist/`
-
-### Testing
-Para ejecutar las pruebas unitarias:
-
-```bash
-npm test
-```
-
-Para ejecutar las pruebas en modo watch:
-```bash
-ng test --watch
-```
 
 ---
 
@@ -131,7 +111,7 @@ Portafolio/
 
 ---
 
-## 🌐 Proyectos Hospedados
+## Proyectos Hospedados
 
 Este portafolio sirve como hub central para todos mis proyectos. Aquí podrás encontrar:
 
@@ -150,7 +130,7 @@ Este portafolio sirve como hub central para todos mis proyectos. Aquí podrás e
 - **Dashboards**: Paneles de administración y analytics
 - **Sistemas de Gestión**: CRMs y ERPs personalizados
 
-### 🔗 Enlaces Directos
+### Enlaces Directos
 Cada proyecto incluye:
 - **Demo en vivo**: Enlace directo a la aplicación funcionando
 - **Código fuente**: Repositorio en GitHub
@@ -172,63 +152,7 @@ npm run build
 # Deploy automático: conectar repositorio de GitHub
 ```
 
-#### 2. Vercel
-```bash
-# Instalar Vercel CLI
-npm install -g vercel
 
-# Deploy
-vercel --prod
-```
-
-#### 3. GitHub Pages
-```bash
-# Instalar angular-cli-ghpages
-npm install -g angular-cli-ghpages
-
-# Build y deploy
-ng build --configuration production --base-href="https://juandavidmontenegro.github.io/Portafolio/"
-npx angular-cli-ghpages --dir=dist/portafolio
-```
-
-#### 4. Firebase Hosting
-```bash
-# Instalar Firebase CLI
-npm install -g firebase-tools
-
-# Inicializar proyecto
-firebase init hosting
-
-# Deploy
-npm run build
-firebase deploy
-```
-
-### Variables de Entorno
-Para configuraciones específicas de producción, crea archivos de entorno:
-
-```typescript
-// src/environments/environment.prod.ts
-export const environment = {
-  production: true,
-  apiUrl: 'https://api.tudominio.com',
-  // otras configuraciones...
-};
-```
-
----
-
-## 🛠️ Scripts Disponibles
-
-| Comando | Descripción |
-|---------|-------------|
-| `npm start` | Inicia el servidor de Desarrollo |
-| `npm run build` | Construye la aplicación para producción |
-| `npm run watch` | Construye en modo watch para Desarrollo |
-| `npm test` | Ejecuta las pruebas unitarias |
-| `npm run ng` | Ejecuta comandos de Angular CLI |
-
----
 
 ## 🤝 Contribución
 
@@ -247,7 +171,7 @@ Si deseas contribuir a este proyecto:
 - **GitHub**: [@juandavidmontenegro](https://github.com/juandavidmontenegro)
 - **LinkedIn**: [Juan David Montenegro](https://linkedin.com/in/juandavidmontenegro)
 - **Email**: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- **Portafolio**: [https://juandavidmontenegro.github.io/Portafolio/](https://juandavidmontenegro.github.io/Portafolio/)
+- **Portafolio**: [https://github.com/juandavidmontenegro/Portafolio/](https://juandavidmontenegro.github.io/Portafolio/)
 
 ---
 

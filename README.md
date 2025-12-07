@@ -138,34 +138,6 @@ Cada proyecto incluye:
 - **Tecnologías**: Stack tecnológico utilizado
 
 ---
-
-## 🚀 Despliegue en Producción
-
-### Opciones de Hosting
-
-#### 1. Netlify (Recomendado para frontend)
-```bash
-# Build del proyecto
-npm run build
-
-# Deploy manual: subir carpeta dist/ a Netlify
-# Deploy automático: conectar repositorio de GitHub
-```
-
-
-
-## 🤝 Contribución
-
-Si deseas contribuir a este proyecto:
-
-1. **Fork** el repositorio
-2. Crea una **rama feature** (`git checkout -b feature/nueva-funcionalidad`)
-3. **Commit** tus cambios (`git commit -am 'Agregar nueva funcionalidad'`)
-4. **Push** a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Crea un **Pull Request**
-
----
-
 ## Contacto
 
 - **GitHub**: [@juandavidmontenegro](https://github.com/juandavidmontenegro)

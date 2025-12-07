@@ -166,29 +166,16 @@ Si deseas contribuir a este proyecto:
 
 ---
 
-## 📞 Contacto
+## Contacto
 
 - **GitHub**: [@juandavidmontenegro](https://github.com/juandavidmontenegro)
 - **LinkedIn**: [Juan David Montenegro](https://linkedin.com/in/juandavidmontenegro)
-- **Email**: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- **Portafolio**: [https://github.com/juandavidmontenegro/Portafolio/](https://juandavidmontenegro.github.io/Portafolio/)
+- **Email**: [davidmontenegro-b@hotmail.com](davidmontenegro-b@hotmail.com)
+- **Portafolio**: [https://github.com/juandavidmontenegro/Portafolio/](https://github.com/juandavidmontenegro/Portafolio)
 
 ---
 
-## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
-## 🆕 Actualizaciones Recientes
-
-- **v1.0.0**: Lanzamiento inicial del portafolio
-- **Angular 20**: Actualización a la última versión estable
-- **Responsive Design**: Optimización para dispositivos móviles
-- **Performance**: Mejoras en tiempo de carga y SEO
-
----
 
 ⭐ **¡Si te gusta este proyecto, no olvides darle una estrella en GitHub!** ⭐ 
 

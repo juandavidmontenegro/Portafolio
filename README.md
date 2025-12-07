@@ -18,13 +18,10 @@ Este portafolio está diseñado para:
 ### Frontend
 - **Angular 18** - Framework principal
 - **TypeScript** - Lenguaje de programación
-- **SCSS** - Preprocesador CSS
-- **RxJS** - Programación reactiva
 - **HTML5 / CSS3** - Estructura y estilos
 
 ### Herramientas de Desarrollo
 - **Angular CLI** - Herramientas de Desarrollo
-- **Angular Material** - Herramienta de Desarrollo
 ---
 
 

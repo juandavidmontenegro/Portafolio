@@ -63,11 +63,6 @@ cd Portafolio
 ```bash
 npm install
 ```
-
-### 4. Verificar la instalación
-```bash
-npm list --depth=0
-```
 ---
 
 ## Ejecución del Proyecto

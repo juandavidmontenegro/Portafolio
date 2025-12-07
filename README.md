@@ -1,4 +1,4 @@
-# 📂 Portafolio de Proyectos – Juan David Montenegro
+# Portafolio de Proyectos – Juan David Montenegro
 
 ¡Bienvenido a mi portafolio personal! Este es un espacio donde muestro mis proyectos, habilidades y experiencia en el Desarrollo de software. Desarrollado con **Angular 18**  y **TypeScript**, este portafolio sirve como plataforma central donde hospedo y presento todos mis proyectos.
 
@@ -27,13 +27,7 @@ Este portafolio está diseñado para:
 - **Angular CLI** - Herramientas de Desarrollo
 - **Angular Material** - Herramienta de Desarrollo
 ---
-### Backend
-- **Nestjs** - Framework principal
-- **TypeScript** - Lenguaje de programación
 
-### Herramientas de Desarrollo
-- **Nestjs CLI** - Herramientas de Desarrollo
----
 
 ## 📋 Requisitos Previos
 

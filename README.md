@@ -18,7 +18,8 @@ Este portafolio está diseñado para:
 ### Frontend
 - **Angular 18** - Framework principal
 - **TypeScript** - Lenguaje de programación
-- **HTML5 / CSS3** - Estructura y estilos
+- **HTML5** - Estructura
+- **Tailwindcss** - Estilos
 
 ### Herramientas de Desarrollo
 - **Angular CLI** - Herramientas de Desarrollo

@@ -10,11 +10,10 @@ Este portafolio está diseñado para:
 - **Mostrar mis proyectos**: Una colección completa de mis trabajos en Desarrollo frontend y backend
 - **Demostrar habilidades**: Experiencia práctica con tecnologías modernas
 - **Facilitar contacto**: Información profesional y medios de contacto
-- **Hosting centralizado**: Todos mis proyectos alojados en un solo lugar
 
 ---
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Frontend
 - **Angular 18** - Framework principal
@@ -29,7 +28,7 @@ Este portafolio está diseñado para:
 ---
 
 
-## 📋 Requisitos Previos
+## Requisitos Previos
 
 Antes de instalar y ejecutar el proyecto, asegúrate de tener instalado:
 
@@ -50,7 +49,7 @@ git --version
 
 ---
 
-## 📦 Instalación
+##  Instalación
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 

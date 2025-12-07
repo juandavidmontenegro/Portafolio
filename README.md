@@ -1,6 +1,6 @@
 # Portafolio de Proyectos – Juan David Montenegro
 
-¡Bienvenido a mi portafolio personal! Este es un espacio donde muestro mis proyectos, habilidades y experiencia en el Desarrollo de software Web. Desarrollado con **Angular 18**  y **TypeScript**, este portafolio sirve como plataforma central donde hospedo y presento todos mis proyectos.
+¡Bienvenido a mi portafolio personal! Este es un espacio donde muestro mis proyectos, habilidades y experiencia en el Desarrollo de software Web. Desarrollado con **Angular 18**  este portafolio sirve como plataforma central donde hospedo y presento todos mis proyectos.
 
 ---
 

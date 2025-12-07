@@ -109,35 +109,6 @@ Portafolio/
 └── README.md                # Este archivo
 ```
 
----
-
-## Proyectos Hospedados
-
-Este portafolio sirve como hub central para todos mis proyectos. Aquí podrás encontrar:
-
-### Proyectos Frontend
-- **Aplicaciones Angular**: SPAs con funcionalidades avanzadas
-- **Proyectos React**: Componentes reutilizables y hooks
-- **Vanilla JavaScript**: Proyectos puros sin frameworks
-
-### Proyectos Backend
-- **APIs REST**: Servicios web con Node.js y Express
-- **Bases de Datos**: Integración con MongoDB, MySQL, PostgreSQL
-- **Microservicios**: Arquitecturas distribuidas
-
-### Proyectos Full-Stack
-- **E-commerce**: Plataformas completas de comercio electrónico
-- **Dashboards**: Paneles de administración y analytics
-- **Sistemas de Gestión**: CRMs y ERPs personalizados
-
-### Enlaces Directos
-Cada proyecto incluye:
-- **Demo en vivo**: Enlace directo a la aplicación funcionando
-- **Código fuente**: Repositorio en GitHub
-- **Documentación**: Instrucciones detalladas de instalación y uso
-- **Tecnologías**: Stack tecnológico utilizado
-
----
 ## Contacto
 
 - **GitHub**: [@juandavidmontenegro](https://github.com/juandavidmontenegro)
